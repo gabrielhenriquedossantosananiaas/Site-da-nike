@@ -1,0 +1,188 @@
+body{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+margin-left: 2%;
+
+}
+
+
+p{
+    position: absolute;
+margin-top: -1%;
+width: auto;
+margin-left: 72%;
+font-family: Arial, Helvetica, sans-serif;
+color: rgb(0,0,0,0.7);
+font-size: 12px;
+margin-right: 2%;
+}
+
+
+
+ul {
+    list-style-type: none; /* Remove os bullets */
+    padding: 0; /* Remove o espaçamento interno padrão */
+    margin: 0; /* Remove o espaçamento externo padrão */
+}
+
+li {
+    display: inline; /* Faz os itens ficarem na mesma linha */
+    padding-right: 1%;
+   
+}
+
+
+li img {
+    top: 0;
+    display: inline; /* Faz os itens ficarem na mesma linha */
+    width: 30px; /* Define a largura da imagem */
+    height: auto; /* Mantém a proporção da imagem */
+
+}
+
+.txtprimeirafileira{
+    font-size: 100px;
+}
+
+.txtprimeirafileira li{
+    font-size: 100px;
+}
+
+
+
+.primeirafileira{
+
+height:10%;
+width: 10%;
+
+}
+
+.primeirafileira img{
+
+    height:50%;
+    width: 10%;
+    }
+
+header{
+    margin-top: 2.6%;
+    position: relative;
+    width: auto;
+    height: 80px;
+    color: black;
+}
+
+header img{
+    position: relative;
+    width: auto;
+    height: 23px;
+}
+
+
+.add{
+    padding-right: 20px;
+    margin-top: -5.7%;
+    margin-left: 77%;
+    position: relative;
+    width: auto;
+    height: 80px;
+}
+
+.add p{
+    display: flex;
+left: -66%;
+    font-size: 14px;
+    margin-top: -7%;
+    color: rgb(0,0,0,0.5);
+}
+
+.add img{
+    position: relative;
+    width: auto;
+    height: 15px;
+    
+
+}
+
+
+#coracao {
+    position: relative;
+    width: auto;
+    height: 21%;
+    margin-left: 55%;
+
+}
+
+#coracao img{
+    position: relative;
+    width: auto;
+    height: 21%;
+  
+}
+
+#sacola {
+    position: relative;
+    width: auto;
+    height: 25%;
+    margin-left: 14.5%;
+
+}
+
+#sacola img{
+    position: relative;
+    width: auto;
+    height: 25%;
+
+
+}
+
+
+#txt{
+    margin: 0;
+    font-size: 105%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 23%;
+    margin-right: 20%;
+    margin-top: -1.4%;
+}
+
+
+.bannerprincipal img{
+  
+    height: 100%;
+    width: 97%;
+ 
+
+}
+
+.corinthias{
+margin-top: -1.9%;
+width: auto;
+height: 40px;
+font-family: Arial, Helvetica, sans-serif;
+color: rgb(0,0,0,0.7);
+margin-left: 31%;
+font-size: 89%;
+    }
+
+.corinthias img{
+    width: auto;
+    height: 27px;
+
+ }
+
+ #time{
+
+    width: auto;
+    height: 27px;
+    margin-top: -2%;
+    margin-left: 28.3%;
+ }
+
+ #time img{
+    margin-top: -2%;
+    width: auto;
+    height: 27px;
+
+ }
+
